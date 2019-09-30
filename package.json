@@ -1,0 +1,14 @@
+{
+  "name": "static-pdf-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3"
+  }
+}
